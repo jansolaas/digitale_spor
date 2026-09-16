@@ -1,6 +1,8 @@
 # CTF AES-CBC Decryptor – Digitale Spor
 
-Et verktøy for å løse CTF/krypteringsoppgaver med AES-CBC, spesielt egnet for digitale spor-oppgaver som PST bruker i sine rekrutteringsprosesser.
+> ⚠️ **Merknad**: Dette prosjektet er utviklet av forfatteren under en søknadsprosess. Det er ikke offisielt knyttet til noen organisasjon og er kun ment for personlig bruk, læring og verifisering av egne svar.
+
+Et verktøy for å løse CTF/krypteringsoppgaver med AES-CBC
 
 ## 🚀 Installering
 
@@ -54,10 +56,15 @@ Dersom du får feilmeldinger på cryptography under Windows, kan det hende du tr
 
 **Krav:** Python 3.8+
 
-## ℹ️ Om prosjektet
+## 📮 Rekruttering og verifisering
 
-Dette repoet er laget for bruk i forbindelse med rekruttering og kompetansetesting i digitale spor. Fritt til intern bruk og testing! Ta gjerne kontakt for spørsmål.
+Dette verktøyet er laget som en del av en søknadsprosess. 
+Dersom rekrutteringsmiljøer ønsker å verifisere løsninger basert på oppgavedata, 
+kan dette repoet tjene som dokumentasjon.
+
+Spørsmål? Ta kontakt: jansolaas@pm.me
 
 ---
-*Kontakt: jansolaas@pm.me*
-```
+
+*Forfatter: Jan Solås – Pipeline Developer*
+*Se flere prosjekter: https://github.com/jansolaas*
