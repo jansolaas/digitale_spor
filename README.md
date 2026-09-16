@@ -1,6 +1,6 @@
 # CTF AES-CBC Decryptor – Digitale Spor
 
-> ⚠️ **Merknad**: Dette prosjektet er utviklet av forfatteren under en søknadsprosess. Det er ikke offisielt knyttet til noen organisasjon og er kun ment for personlig bruk, læring og verifisering av egne svar.
+> ⚠️ **Merknad**: Dette prosjektet er utviklet av forfatteren under en søknadsprosess. Det er ikke offisielt knyttet til noen organisasjon og er kun ment for personlig bruk og verifisering av egne svar.
 
 Et verktøy for å løse CTF/krypteringsoppgaver med AES-CBC
 
